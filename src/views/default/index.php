@@ -1,1 +1,1 @@
-<?php "Module ext Ok" ?>
+<?php echo "Module ext Ok" ?>
